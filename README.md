@@ -328,57 +328,6 @@ Some limitations include:
 
 ---
 
-## 📂 Suggested Repository Structure
-
-```text
-water-cleaning-robot/
-│
-├── README.md
-│
-├── CAD/
-│   ├── frame/
-│   ├── conveyor/
-│   ├── wheels/
-│   └── assembly/
-│
-├── Arduino/
-│   └── water_cleaning_robot.ino
-│
-├── Electronics/
-│   ├── wiring/
-│   └── schematics/
-│
-├── Images/
-│   ├── prototype.jpg
-│   ├── conveyor.jpg
-│   └── assembly.jpg
-│
-└── Documentation/
-    └── project_report.pdf
-```
-
-This is a suggested structure and can be adjusted according to the files available in the repository.
-
----
-
-## 📸 Adding Images
-
-For a stronger GitHub presentation, add photographs of the actual prototype to an `Images/` folder and embed them here, for example:
-
-```markdown
-![Water Cleaning Robot](Images/prototype.jpg)
-```
-
-You can also add separate images for the conveyor mechanism, wheel assembly, electronics, and final prototype.
-
----
-
-## 🎥 Project Demonstration
-
-**[▶️ Watch the working prototype](https://drive.google.com/file/d/1DYfLFME5Vx7HWMiXFNX8fSm1qkv_5N2b/view?usp=sharing)**
-
----
-
 ## 🙏 Acknowledgements
 
 This project was completed as a team project for the **Design of Machine Elements** course at the **Indian Institute of Technology Indore**.
